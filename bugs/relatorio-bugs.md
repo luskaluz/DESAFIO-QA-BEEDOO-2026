@@ -1,4 +1,4 @@
-# Relatório de Bugs — Módulo de Cursos
+# Relatório de Bugs
 
 ---
 
@@ -233,3 +233,4 @@ O sistema deve validar as datas inseridas e impedir valores fora de um intervalo
 
 **Resultado obtido:**
 O curso é cadastrado e as datas absurdas são exibidas normalmente na listagem.
+
